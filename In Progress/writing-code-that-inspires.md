@@ -38,19 +38,21 @@ This idea can be as simple as writing HTML in it's own HTML file and writing Jav
 
 <h3 id="best-practices">Follow Best Practices</h3>
 
-This I can not stress enough. The best way I think of this concept is to imagine that the project that I am developing is potentially going to be a big thing and I believe when that time comes, the foundation really needs to be strong and the code needs to have some sense of a familiar pattern.
+Best practices are standard approaches that have been proven to produce effective results. These techniques (ways of doing things) are not there to guard you from being unique or creative but rather guide you towards developing systems that dont'd fall too far off from the standard scale. 
 
-Best practices are not there to guard you from being unique or creative but rather guide you to writing code that is concise.
+The other beauty of best practices is that there will always be a lot of resources out there to assist you in solving the problems you come accross during development or maintenance.  
 
 <h3 id="refactor">Refactor whenever you can</h3>
 
-In addition to best practices, refactor as you go because you might not have enough time to come back and redo your code especially whenyou are working on a deadline. In JavaScript, there were so many features that came with ES6: arrow functions, template literals, tenary statements, symbols, destructuring just to mention a few. In HTML we can now use semantic HTML elements which can even substitute a lot of ARIA attribute to improve accessibility.
+In addition to best practices, refactor as you go because you might not have enough time to come back and redo your code especially when you are working on a tight deadline. 
 
-Not only do these features simplify your code, a more visual effect will be a reduction in file size which may not seem important in development but may determine the performance of your application in production.
+In JavaScript, there were so many features that came with ES6: arrow functions, template literals, tenary statements, symbols, destructuring just to mention a few. In HTML we can now use semantic HTML elements which can even substitute a lot of ARIA attribute to improve accessibility.
+
+Not only do these features simplify your code, you can also see a reduction in your file sizes which may not seem important in development but may very well play a role in the performance of your application in production.
 
 <h3 id="descriptive-variables">Use descriptive variable names</h3>
 
-Really Matthew? YES. I was part of the Mentor Team for the Google Africa Developer Scholarship 2020 and had the priviledge to review some of the projects submitted by students during the second phase. Some of the students would use variables like "ho" for "hour" and "hu" for "humidity". While to them it made sense but to others it was painful. 
+Really Matthew? YES. I was part of the MWS Mentor Team for the Google Africa Developer Scholarship 2020 and had the priviledge to review some of the projects submitted by students during the second phase. Some of the students would use variables like "ho" for "hour" and "hu" for "humidity" because thehy were building a Weather Web App. While to them it made sense but to others, it was painful. 
 
 Use variables that are meaningful and that describe the purpose they have been created for. Try not to use single letter variable names like "x" or "y" unless you are actually dealin with axes.
 
