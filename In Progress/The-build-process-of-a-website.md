@@ -12,6 +12,7 @@ In this article will take a look at the General Build proces that each amazing w
 <h2 style="text-decoration: underline;">Table of contents</h2>
 
 1. [Application Overview](#overview)
+1. [Design the application](#design)
 1. [Decide on the technologies](#technologies)
 1. [Plan the application architecture](#app-architecture)
 1. [Design the application](#design)
@@ -24,8 +25,13 @@ In this article will take a look at the General Build proces that each amazing w
 
 <h3 id="overview">The Application overview</h3>
 
-The application overview is essetially about what that the application will be doing or what problems will it be solving. The best way to get answers to this is imagining talking gto a future audience about your product or just a sit down with your client and let them walk you through what thier hopes are for the application.
+The application overview is essetially a a broad but yet simple simple explanation of the application's reach. The best way to imagine this is to think of a pitch where you outline the **problem** and the potential **solution** to it.
 
+<h3 id="design">Design the application</h3>
+
+Once you have a general working idea of the application, start working on the design. You can use tools like Sketch or Figma to create a interactive design of the web application you have in mind and how it will address your problem. 
+
+A design helps yo to also start getting feedback about the idea you have before you start building it as you can share links of your prototypes.
 
 <h3 id="technologies">Decide on the technologies</h3>
 
