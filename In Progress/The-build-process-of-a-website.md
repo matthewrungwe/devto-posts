@@ -35,6 +35,8 @@ A design helps yo to also start getting feedback about the idea you have before 
 
 <h3 id="technologies">Decide on the technologies</h3>
 
+With your design, it becomes easier to decide on which technologies to use. The design allows you to see what languages you can use, the best framework, database or tools.
+
 <h3 id="app-architecture">Plan the application architecture</h3>
 
 <h3 id="design">Design the application</h3>
