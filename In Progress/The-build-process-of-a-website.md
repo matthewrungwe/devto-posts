@@ -1,10 +1,10 @@
 So, you have a web project you want to start working on and have no idea how or where to start?
  
-In this article, we will look at the *general building process of a website or web application*. This article can serve as a guide to how you can start and finish a website.
+In this article, we will look at the *general building process of a website or web application*. This article can serve as a guide of how you can start and finish a website.
 
-<h2 style="text-decoration: underline;">Table of contents</h2>
+<h2>Table of contents</h2>
 
-1. [Application Overview](#overview)
+1. [The Application Overview](#overview)
 1. [Design the application](#design)
 1. [Decide on the technologies](#technologies)
 1. [Set up the project](#setup)
@@ -15,9 +15,9 @@ In this article, we will look at the *general building process of a website or w
 
 ---
 
-<h3 id="overview">The Application overview</h3>
+<h3 id="overview">The Application Overview</h3>
 
-The application overview is essentially a broad but yet simple high-level explanation of the application's reach and purpose. The best way to imagine this is to think of a pitch where you outline the **problem** and the potential **solution** to it.
+The application overview is essentially a *broad but yet simple high-level explanation of the application's reach and purpose*. The best way to imagine this is to think of a pitch where you outline the **problem** and the potential **solution** to it.
 
 <h3 id="design">Design the application</h3>
 
@@ -29,19 +29,19 @@ Once you have a general working idea of the application, start working on the de
 - Allows you to be creative and to come up with ideas that can help you stand out. 
 - Helps you decide on additional tools you might need to tackle certain features.
 
-Give yourself a little bit of time to design your project. The development stage becomes a lot easier when you have a **blueprint** (mock-up) to refer to when working.
+Give yourself a little bit of time to design your project. The [development](#development) stage becomes a lot easier when you have a **blueprint**, a mock-up, to refer to when working.
 
 <h3 id="technologies">Decide on the technologies</h3>
 
 Yes! With a detailed application overview and design, you should be able to deduce the complexity and the needs of your application.
 
-In Web Development. An application like a Todo List can easily be created by using HTML, CSS and JavaScript while an app like Netflix may require a framework like Angular, React or Vue to mention a few.
+In Web Development. An application like a Todo List can easily be created by using HTML, CSS and JavaScript while an app like Netflix may require something more robust, a framework, like Angular, React or Vue to mention a few.
 
-Some applications need to be in constant communication with the servers. Whereas, some may get by handling the user data on the client-side. Understanding the needs of your application will help you to decide beforehand. You can decide on what technologies to incorporate, which database or deployment platform.
+Some applications need to be in constant communication with the servers. Whereas, some may get by by handling the user data on the client-side. Understanding the needs of your application (having the overview and design) will help you to decide beforehand on what technologies to incorporate, which database to use or the deployment platform that will be best.
 
 <h3 id="setup">Setup the project</h3>
 
-Next, you can start preparing to develop the application. Before we do that, we need to create an environment for the project:
+Next, you can start preparing to develop the application. Before we start developing, we need to create an environment for the project:
 
 - Creating a repository.
 - Creating a project in your repository to track your development.
@@ -51,11 +51,12 @@ Next, you can start preparing to develop the application. Before we do that, we 
 
 <h3 id="development">Development</h3>
 
-Aah, finally 😊 now you can start with your code. Recreate your design using your coding languages and your favourite tools. 
+Aah, finally 😊 now you can start with your code. Recreate your design using your the coding languages you [decided](#technologies) on and your favourite tools. 
 
 During this time, you will get to: 
 - Spend a lot of time trying different ways to implement a feature.
 - Follow best practices and conventions.
+- Revisit your notes and take other short tutorials.
 - Become a close friend of [Google](https://www.google.com/), [StackOverflow](https://stackoverflow.com/), [Youtube](https://www.youtube.com/) or [Grepper](https://www.codegrepper.com/).
 - Create numerous branches and make several commits.
 - Create Pull Requests and close issues.
@@ -66,7 +67,7 @@ This section is dismissed by so many. **Test, test and test your code.** Debug y
 
 <h3 id="review">Review the App</h3>
 
-Take your application for a complete **test drive**. Pretend you are the user for a while, question everything and see how the application does. 
+Take your application for a complete **test drive**. Pretend you are the user for a while, question everything and see how the application performs. 
 
 Also, having an extra pair of eyes won't hurt. **Get a different opinion** from a mentor or a trusted friend.
 
