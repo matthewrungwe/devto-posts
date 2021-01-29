@@ -8,7 +8,7 @@ In this article, we will look at the *general building process of a website or w
 1. [Design the application](#design)
 1. [Decide on the technologies](#technologies)
 1. [Set up the project](#setup)
-1. [Develop](#development)
+1. [Development](#development)
 1. [Test and Debug](#test-n-debug)
 1. [Review the App](#review)
 1. [Deployment](#deployment)
@@ -17,7 +17,7 @@ In this article, we will look at the *general building process of a website or w
 
 <h3 id="overview">The Application overview</h3>
 
-The application overview is essentially a broad but yet simple high-level explanation of the application's reach and. The best way to imagine this is to think of a pitch where you outline the **problem** and the potential **solution** to it.
+The application overview is essentially a broad but yet simple high-level explanation of the application's reach and purpose. The best way to imagine this is to think of a pitch where you outline the **problem** and the potential **solution** to it.
 
 <h3 id="design">Design the application</h3>
 
@@ -49,7 +49,7 @@ Next, you can start preparing to develop the application. Before we do that, we 
 - Creating milestones, your timelines, like design, development and testing.
 - Downloading packages and all dependencies.
 
-<h3 id="development">Develop</h3>
+<h3 id="development">Development</h3>
 
 Aah, finally 😊 now you can start with your code. Recreate your design using your coding languages and your favourite tools. 
 
@@ -69,6 +69,8 @@ This section is dismissed by so many. **Test, test and test your code.** Debug y
 Take your application for a complete **test drive**. Pretend you are the user for a while, question everything and see how the application does. 
 
 Also, having an extra pair of eyes won't hurt. **Get a different opinion** from a mentor or a trusted friend.
+
+Get help from a Third-Party, run your application through [Lighthouse](https://developers.google.com/web/tools/lighthouse). You can also do this during [development](#development) or [testing](#test-n-debug). Get a detailed report about your application's code to improve the app's performance.
 
 If the review is critical and honest enough, you should be ready to present your idea to the world. 
 
